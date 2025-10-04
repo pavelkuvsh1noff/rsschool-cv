@@ -10,14 +10,14 @@
 
 ### E-mail:
 
-pavelkuvsh1noff@mail.ru
+kuvsh1noffpavel1989@mail.ru
 
 ### Location
 
 Belarus, Borisov
 
 ### Github
-(https://github.com/Pavel-Kuvshinov)
+(https://github.com/pavelkuvsh1noff)
 
 ## Summary
 
