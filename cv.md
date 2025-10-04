@@ -76,3 +76,13 @@ A few of my projects completed earlier:
 - 2019, CSS Basic, [Codecademy](https://www.codecademy.com/profiles/PavelKuvsh1nov/certificates/9a5bb1fc45b4281af1fffec93b0aaf05);
 - 2019, Command line, [Codecademy](https://www.codecademy.com/profiles/PavelKuvsh1nov/certificates/c87ba0541f8be78bc2f4ba1128233f6f);
 - 2019, GIT, [Codecademy](https://www.codecademy.com/profiles/PavelKuvsh1nov/certificates/a8ab218d5950c29861635cc0bf12fd13);
+
+## Education
+
+Vehicle Maintenance, Belarusian-Russian University, 2012.
+
+## Languages
+
+- Russian;
+- Belorussian;
+- English (A2+).
